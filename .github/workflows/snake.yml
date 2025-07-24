@@ -16,11 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Soura1345
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v4
-        with:
-          name: contribution-snake
-          path: ./dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.gif
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
