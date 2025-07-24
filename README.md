@@ -28,4 +28,4 @@
 
 ### 🐍 GitHub Contribution Snake
 
-![snake gif](https://soura1345.github.io/Soura1345/github-contribution-grid-snake.svg)
+![snake gif](https://soura1345.github.io/Soura1345/github-contribution-grid-snake.gif)
