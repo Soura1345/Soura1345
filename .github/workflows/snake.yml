@@ -7,9 +7,6 @@ on:
 
 permissions:
   contents: write
-concurrency:
-  group: "github-pages"
-  cancel-in-progress: true
 
 jobs:
   generate:
@@ -20,8 +17,7 @@ jobs:
         with:
           github_user_name: Soura1345
           outputs: dist/github-contribution-grid-snake.gif
-          theme: github_dark_colorblind
-          
+          theme: dark
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
