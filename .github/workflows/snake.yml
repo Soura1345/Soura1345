@@ -18,7 +18,7 @@ jobs:
           github_user_name: Soura1345
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: contribution-snake
           path: ./dist/github-contribution-grid-snake.svg
