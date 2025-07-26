@@ -2,10 +2,10 @@
 <h1 align="center">Myself SOURASHIS PAL</h1>
 🎓 I’m a passionate B.Tech student in Computer Science and Engineering<br>💡 I thrive at the intersection of technology and innovation, always eager to learn and build impactful solutions.<br>🔁 Code is not just a skill — it's a superpower that brings imagination to life.
 
-### 🌐 Socials:
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soura_05) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nobi.07_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourashis-pal-570b7432b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Soura_13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palsourashis04@gmail.com) 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
 
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
@@ -29,7 +29,7 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 </div>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
@@ -37,20 +37,19 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <div align = "center">
   
   ![](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)</div>
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <div align = "center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)</div>
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <div align = "center">
   
   ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)</div>
 <div align = "center">
   
   [![](https://visitcount.itsvg.in/api?id=Soura1345&icon=7&color=8)](https://visitcount.itsvg.in)</div>
-
 ![snake gif](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)
