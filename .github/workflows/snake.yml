@@ -18,6 +18,7 @@ jobs:
           github_user_name: Soura1345
           outputs: |
             dist/github-contribution-grid-snake.gif?palette=github-dark
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
             
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
