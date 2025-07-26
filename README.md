@@ -3,7 +3,8 @@
 🎓 I’m a passionate B.Tech student in Computer Science and Engineering<br>💡 I thrive at the intersection of technology and innovation, always eager to learn and build impactful solutions.<br>🔁 Code is not just a skill — it's a superpower that brings imagination to life.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soura_05) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nobi.07_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourashis-pal-570b7432b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Soura_13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palsourashis04@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soura_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourashis-pal-570b7432b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Soura_13)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nobi.07_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palsourashis04@gmail.com) 
 
 ## 💻 Tech Stack:
 <div align="center">
