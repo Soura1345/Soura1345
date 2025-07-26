@@ -1,4 +1,6 @@
-# 💫 About Me:
+<p align="center"
+  # 💫 About Me:
+p>
 👋 Hello there! I'm Sourashis Pal<br>🎓 I’m a passionate B.Tech student in Computer Science and Engineering<br>💡 I thrive at the intersection of technology and innovation, always eager to learn and build impactful solutions.<br>🔁 Code is not just a skill — it's a superpower that brings imagination to life.
 
 
