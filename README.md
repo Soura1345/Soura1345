@@ -1,5 +1,5 @@
 ### 👋 Hello there! 
-<h1 align="center">Myself SOURASHIS PALl</h1>
+<h1 align="center">Myself SOURASHIS PAL</h1>
 🎓 I’m a passionate B.Tech student in Computer Science and Engineering<br>💡 I thrive at the intersection of technology and innovation, always eager to learn and build impactful solutions.<br>🔁 Code is not just a skill — it's a superpower that brings imagination to life.
 
 ### 🌐 Socials:
