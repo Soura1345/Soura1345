@@ -25,9 +25,3 @@
 [![](https://visitcount.itsvg.in/api?id=Soura1345&icon=7&color=8)](https://visitcount.itsvg.in)
 
 ![snake gif](https://soura1345.github.io/Soura1345/github-contribution-grid-snake.gif)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://Soura1345.github.io/Soura1345/github-contribution-grid-snake.gif" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://Soura1345.github.io/Soura1345/github-contribution-grid-snake.gif" />
-  <img alt="GitHub Contribution Snake" src="https://Soura1345.github.io/Soura1345/github-contribution-grid-snake.gif" />
-</picture>
