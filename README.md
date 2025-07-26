@@ -28,6 +28,6 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://Soura1345.github.io/Soura1345/github-contribution-grid-snake.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://Soura1345.github.io/Soura1345/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://Soura1345.github.io/Soura1345/github-contribution-grid-snake.gif" />
   <img alt="GitHub Contribution Snake" src="https://Soura1345.github.io/Soura1345/github-contribution-grid-snake.gif" />
 </picture>
