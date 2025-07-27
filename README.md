@@ -59,4 +59,4 @@
   
 ![snake gif](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)
 
-![snake gif](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.gif)
+![snake gif](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)
