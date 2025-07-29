@@ -1,4 +1,7 @@
-### 👋 Hello there! 
+<div align="center">
+  
+  ### 👋 Hello guys...! 
+</div>
 <h1 align="center">Myself SOURASHIS PAL</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02faee&center=true&vCenter=true&width=435&lines=Web+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -67,6 +70,13 @@
   
   [![](https://visitcount.itsvg.in/api?id=Soura1345&icon=7&color=8)](https://visitcount.itsvg.in)
 </div>
+
+<!--## Activity graph
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soura1345&bg_color=transparent&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
+
+</div>-->
 
 <div align="center">
   
