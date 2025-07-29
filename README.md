@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies
 <div align = "center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)</div>
+  ![](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=monokai&no-frame=false&no-bg=true&margin-w=4)</div>
 ## ✍️ Random Dev Quote
 <div align = "center">
   
