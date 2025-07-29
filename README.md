@@ -48,17 +48,27 @@
 ## 🏆 GitHub Trophies
 <div align = "center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=monokai&no-frame=false&no-bg=true&margin-w=4)</div>
+  ![](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+</div>
+
 ## ✍️ Random Dev Quote
 <div align = "center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)</div>
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+</div>
+
 ## 🔝 Top Contributed Repo
 <div align = "center">
   
-  ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)</div>
+  ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+</div>
+
 <div align = "center">
   
-  [![](https://visitcount.itsvg.in/api?id=Soura1345&icon=7&color=8)](https://visitcount.itsvg.in)</div>
+  [![](https://visitcount.itsvg.in/api?id=Soura1345&icon=7&color=8)](https://visitcount.itsvg.in)
+</div>
 
-![snake svg](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  
+  ![snake svg](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)
+</div>
