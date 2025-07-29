@@ -41,8 +41,8 @@
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)
-  ![](https://nirzak-streak-stats.vercel.app/?user=Soura1345&theme=ambient_gradient&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://nirzak-streak-stats.vercel.app/?user=Soura1345&theme=one_dark_pro&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ## 🏆 GitHub Trophies
