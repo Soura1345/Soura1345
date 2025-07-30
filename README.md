@@ -82,3 +82,5 @@
   
   ![snake svg](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)
 </div>
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura1345&theme=github_dark)
