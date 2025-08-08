@@ -63,7 +63,7 @@
 ## 🔝 Top Contributed Repo
 <div align = "center">
   
-  ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+  ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 </div>
 
 <div align = "center">
@@ -80,7 +80,8 @@
 
 <div align="center">
   
-  ![snake svg](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)</div>
+  ![snake svg](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)
+</div>
 <div align="center">
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura1345&theme=github_dark)</div>
