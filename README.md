@@ -57,7 +57,7 @@
 ## ✍️ Random Dev Quote
 <div align = "center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 </div>
 
 ## 🔝 Top Contributed Repo
