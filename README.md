@@ -7,7 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02faee&center=true&vCenter=true&width=435&lines=Data+Scientist;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
-🎓 I’m a passionate B.Tech student in Computer Science and Engineering<br>💡 I thrive at the intersection of technology and innovation, always eager to learn and build impactful solutions.<br>🔁 Code is not just a skill — it's a superpower that brings imagination to life.
+🎓 I’m a passionate B.Tech student in Computer Science and Engineering<br>
+💡 I thrive at the intersection of technology and innovation, always eager to learn and build impactful solutions.<br>
+🧠 I tackles real-world issues and draws insightful conclusions from data by utilizing my solid Python foundation.<br>
+🔁 Code is not just a skill — it's a superpower that brings imagination to life.
 
 ## 🌐 Socials:
 <div align="center">
