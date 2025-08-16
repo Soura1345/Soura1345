@@ -1,8 +1,9 @@
 <div align="center">
   
   ### 👋 Hello guys...! 
+  ###  Myself
 </div>
-<h1 align="center">Myself SOURASHIS PAL</h1>
+<h1 align="center"&>SOURASHIS PAL</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02faee&center=true&vCenter=true&width=435&lines=Data+Scientist;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
@@ -76,7 +77,7 @@
 ## 🔝 Top Contributed Repo
 <div align = "center">
   
-  ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+  ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 </div>
 
 <div align = "center">
