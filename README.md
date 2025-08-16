@@ -1,7 +1,6 @@
 <div align="center">
   
   ### 👋 Hello guys...! 
-  ###  Myself
 </div>
 <h1 align="center"&>SOURASHIS PAL</h1>
 <div align="center">
