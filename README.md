@@ -29,9 +29,8 @@
   <a href="https://www.instagram.com/_nobi.07_" target="blank">
     <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram logo" height="40" width="40"/>
     <img width="30" />
-  </a>
-  <a href="mailto: palsourashis04@gmail.com">
-  <img src="./gmail.svg" alt="Gmail logo" width="40" />
+  <a href="mailto: palsourashis04@example.com">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2709.svg" alt="Email" height="40" width="40">
 </a>
 </div>
 
