@@ -64,9 +64,8 @@
 ## 📊 GitHub Stats:
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
-  ![](https://nirzak-streak-stats.vercel.app/?user=Soura1345&theme=tokyonight&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=Soura1345&theme=tokyonight&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
 ## 🏆 GitHub Trophies
@@ -84,7 +83,7 @@
 ## 🔝 Top Contributed Repo
 <div align = "center">
   
-  ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+  ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=false)
 </div>
 
 <div align = "center">
