@@ -13,17 +13,23 @@
 
 ## 🌐 Socials:
 <div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soura_05) 
-<!-- Discord logo linking to your profile -->
+ 
 <a href="https://discord.gg/soura_05">
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="40" width="40"/>
+</a> 
+<a href="https://www.linkedin.com/in/iamsourashis" target="_blank">
+  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn logo" height="40" width="40"/>
+</a>
+<a href="https://www.linkedin.com/in/sourashis-pal-570b7432b" target="_blank">
+  <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram logo" height="40" width="40"/>
+</a>
+<a href="https://x.com/Soura_13" target="_blank">
+  <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter logo" height="40" width="40"/>
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourashis-pal-570b7432b) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Soura_13)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nobi.07_) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palsourashis04@gmail.com)
+<a href="mailto:palsourashis04@gmail.com">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" height="40" width="40">
+</a>
 </div>
 
 ## 💻 Tech Stack:
