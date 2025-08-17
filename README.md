@@ -16,68 +16,68 @@
   
   <a href="https://discord.gg/soura_05">
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="40" width="40"/>
-    <img width="20" />
+    <img width="30" />
   </a>  
   <a href="https://www.linkedin.com/in/iamsourashis" target="blank">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn logo" height="40" width="40"/>
-    <img width="20" />
+    <img width="30" />
   </a>  
   <a href="https://www.linkedin.com/in/sourashis-pal-570b7432b" target="blank">
     <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram logo" height="40" width="40"/>
-    <img width="20" />
+    <img width="30" />
   </a>
   <a href="https://x.com/Soura_13" target="blank">
     <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter logo" height="40" width="40"/>
-    <img width="20" />
+    <img width="30" />
   </a>
   <a href="mailto:palsourashis04@gmail.com">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" height="40" width="40">
-    <img width="20" />
+    <img width="30" />
   </a>
 </div>
 
 ## 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.simpleicons.org/github/ffffff" height="35" alt="GitHub logo white" />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="35" alt="vercel logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="35" alt="netlify logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" alt="postman logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" alt="pytorch logo"  /> 
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="20">
+  <img width="30">
   <img src="https://cdn.simpleicons.org/django/092E20" height="35" alt="Django logo" />
-  <img width="20">
+  <img width="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="AWS wordmark logo" />
-  <img width="20">
+  <img width="30">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg" alt="Power BI logo" height="35" />
-  <img width="20">
+  <img width="30">
   <img src="https://static.cdnlogo.com/logos/c/41/canva.svg" alt="Canva icon" height="35" />
 </div>
 
