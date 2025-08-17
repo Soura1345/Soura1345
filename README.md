@@ -21,13 +21,13 @@
   <a href="https://www.linkedin.com/in/iamsourashis" target="blank">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn logo" height="40" width="40"/>
     <img width="30" />
-  </a>  
-  <a href="https://www.linkedin.com/in/sourashis-pal-570b7432b" target="blank">
-    <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram logo" height="40" width="40"/>
-    <img width="30" />
-  </a>
+  </a> 
   <a href="https://x.com/Soura_13" target="blank">
     <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter logo" height="40" width="40"/>
+    <img width="30" />
+  </a>
+  <a href="https://www.instagram.com/_nobi.07_" target="blank">
+    <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram logo" height="40" width="40"/>
     <img width="30" />
   </a>
   <a href="mailto:palsourashis04@gmail.com">
