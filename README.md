@@ -13,19 +13,24 @@
 
 ## 🌐 Socials:
 <div align="center">
-  
-  <img href="https://discord.gg/soura_05" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="40" width="40"/>
+  <a href="https://discord.gg/soura_05">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="40" width="40"/>
+    <img width="20" />
+    
 <a href="https://www.linkedin.com/in/iamsourashis" target="_blank">
-  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn logo" height="40" width="40"/>
-</a>
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn logo" height="40" width="40"/>
+    <img width="20" />
+  
 <a href="https://www.linkedin.com/in/sourashis-pal-570b7432b" target="_blank">
-  <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram logo" height="40" width="40"/>
-</a>
+    <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram logo" height="40" width="40"/>
+    <img width="20" />
+  
 <a href="https://x.com/Soura_13" target="_blank">
-  <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter logo" height="40" width="40"/>
-</a>
+    <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter logo" height="40" width="40"/>
+    <img width="20" />
 <a href="mailto:palsourashis04@gmail.com">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" height="40" width="40">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" height="40" width="40">
+    <img width="20" />
 </a>
 </div>
 
