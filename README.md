@@ -13,6 +13,7 @@
 
 ## 🌐 Socials:
 <div align="center">
+  
   <a href="https://discord.gg/soura_05">
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="40" width="40"/>
     <img width="20" />
