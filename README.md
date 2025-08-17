@@ -31,7 +31,7 @@
     <img width="30" />
   </a>
   <a href="mailto:palsourashis04@gmail.com">
-    <img src="https://www.svgrepo.com/vectors/gmail/2" alt="Gmail" height="40" width="40">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Gmail" height="40" width="40">
     <img width="30" />
   </a>
 </div>
