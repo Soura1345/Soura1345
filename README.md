@@ -84,10 +84,23 @@
 ## 📊 GitHub Stats:
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=true) 
+  ![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true) 
   ![](https://nirzak-streak-stats.vercel.app/?user=Soura1345&theme=vision-friendly-dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Soura1345&theme=codeSTACKr&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Soura1345&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 <div align = "center">
