@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=22eb07&center=true&vCenter=true&width=435&lines=Data+Scientist;Coding+is+not+just+a+skill;It's+a+power+that;Brings+imagination+to+life;😉" alt="Typing SVG" />
 </div>
-### 
 
 🎓 I’m a passionate B.Tech student in Computer Science and Engineering<br>
 💡 I thrive at the intersection of technology and innovation, always eager to learn and build impactful solutions.<br>
