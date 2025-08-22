@@ -121,7 +121,7 @@
 ## Activity graph
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soura1345&bg_color=transparent&color=38bdae&line=fff3d4&point=61c0ff&area=false&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soura1345&bg_color=transparent&color=38bdae&line=ffdf87&point=61c0ff&area=false&hide_border=true)
 
 </div>
 
