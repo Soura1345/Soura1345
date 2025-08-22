@@ -1,3 +1,4 @@
+![GitHub Views](https://komarev.com/ghpvc/?username=Soura1345)
 <div align="center">
   
   ### 👋 Hello guys...! 
@@ -33,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2709.svg" alt="Email" height="40" width="40">
 </a>
 </div>
-
-![GitHub Views](https://komarev.com/ghpvc/?username=Soura1345)
 
 ## 💻 Tech Stack:
 <div align="center">
