@@ -1,4 +1,3 @@
-<img src="https://profile-counter.deno.dev/:Soura1345:/count.svg" alt="Visitor's Count" />
 <div align="center">
   
   ### 👋 Hello guys...! 
@@ -36,7 +35,6 @@
 </div>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Soura1345)
-
 
 ## 💻 Tech Stack:
 <div align="center">
