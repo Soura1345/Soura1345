@@ -118,7 +118,7 @@
   [![](https://visitcount.itsvg.in/api?id=Soura1345&icon=7&color=8)](https://visitcount.itsvg.in)
 </div>
 
-## 📊 Activity graph
+## 📈 Activity graph
 <div align="center">
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soura1345&bg_color=transparent&color=38bdae&line=ffdf87&point=61c0ff&area=false&hide_border=true)
