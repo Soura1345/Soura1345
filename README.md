@@ -1,3 +1,4 @@
+<img src="https://profile-counter.deno.dev/:Soura1345:/count.svg" alt="Visitor's Count" />
 <div align="center">
   
   ### 👋 Hello guys...! 
@@ -33,6 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2709.svg" alt="Email" height="40" width="40">
 </a>
 </div>
+
+![GitHub Views](https://komarev.com/ghpvc/?username=Soura1345)
+
 
 ## 💻 Tech Stack:
 <div align="center">
@@ -85,8 +89,8 @@
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=true) 
-  ![](https://nirzak-streak-stats.vercel.app/?user=Soura1345&theme=vision-friendly-dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  ![](https://nirzak-streak-stats.vercel.app/?user=Soura1345&theme=calm_pink&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
 ---
