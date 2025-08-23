@@ -91,9 +91,6 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Soura1345&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 <div align = "center">
@@ -101,16 +98,10 @@
   ![](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
-## ✍️ Random Dev Quote
-<div align = "center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-</div>
-
 ## 🔝 Top Contributed Repo
 <div align = "center">
   
-  ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=false)
+  ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=3&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=false)
 </div>
 
 <div align = "center">
@@ -121,14 +112,14 @@
 ## 📈 Activity graph
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soura1345&bg_color=transparent&color=38bdae&line=ffdf87&point=61c0ff&area=false&hide_border=true)
-
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soura1345&bg_color=transparent&color=38bdae&line=ffdf87&point=61c0ff&area=false&hide_border=true)
 </div>
 
 <div align="center">
   
   ![snake svg](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)
 </div>
-<!--<div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura1345&theme=github_dark)</div>-->
+<!--<div align="center">
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura1345&theme=github_dark)
+</div>-->
