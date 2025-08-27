@@ -93,7 +93,8 @@
 <!--## 🏆 GitHub Trophies
 <div align = "center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=gruvbox)](https://github.com/Soura1345/github-profile-trophy)
+  ![](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </div>-->
 
 ## 🔝 Top Contributed Repo
