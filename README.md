@@ -5,7 +5,7 @@
 </div>
 <h1 align="center"&>SOURASHIS PAL</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=22eb07&center=true&vCenter=true&width=435&lines=I'm+a+Data+Scientist;Coding+is+not+just+a+skill;It's+a+power+that;Brings+imagination+to+life;😉" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=22eb07&center=true&vCenter=true&width=450&lines=I'm+a+Data+Scientist;and+wants+to+tell+you+guys+that;Coding+is+not+just+a+skill;It's+a+power+that;Brings+imagination+to+life;😉" alt="Typing SVG" />
 </div>
 
 🎓 I’m a passionate B.Tech student in Computer Science and Engineering<br>
