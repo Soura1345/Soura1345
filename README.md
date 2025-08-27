@@ -90,11 +90,11 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
-<!--## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <div align = "center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=gruvbox)](https://github.com/Soura1345/github-profile-trophy)
-</div>-->
+</div>
 
 ## 🔝 Top Contributed Repo
 <div align = "center">
