@@ -92,21 +92,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 <div align = "center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-</div>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=gruvbox)](https://github.com/Soura1345/github-profile-trophy)
+</div>-->
 
 ## 🔝 Top Contributed Repo
 <div align = "center">
   
   ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=3&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=false)
-</div>
-
-<div align = "center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Soura1345&icon=7&color=8)](https://visitcount.itsvg.in)
 </div>
 
 ## 📈 Activity graph
