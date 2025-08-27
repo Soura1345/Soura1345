@@ -116,5 +116,5 @@
 
 <div align="center">
   
-  ![snake svg](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)
+  ![snake svg](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.gif)
 </div>
