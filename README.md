@@ -104,15 +104,15 @@
 </div>
 
 ## 📈 Activity graph
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soura1345&bg_color=transparent&color=38bdae&line=61c0ff&point=ffdf87&area=true&hide_border=true)
-</div>
-
 <!--<div align="center">
   
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura1345&theme=github_dark)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soura1345&bg_color=transparent&color=38bdae&line=61c0ff&point=ffdf87&area=true&hide_border=true)
 </div>-->
+
+<div align="center">
+  
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura1345&theme=github_dark)
+</div>
 
 <div align="center">
   
