@@ -14,50 +14,27 @@
 
 ## 🌐 Socials:
 <div align="center">
-  
-  <a href="https://discord.gg/soura_05">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="40" width="40"/>
-    <img width="15" />
-  </a>  
-  <a href="https://www.linkedin.com/in/iamsourashis" target="blank">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn logo" height="40" width="40"/>
-    <img width="15" />
-  </a> 
-  <a href="https://x.com/Soura_13" target="blank">
-    <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter logo" height="40" width="40"/>
-    <img width="15" />
-  </a>
-  <a href="https://www.instagram.com/_nobi.07_" target="blank">
-    <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram logo" height="40" width="40"/>
-    <img width="15" />
-  <a href="mailto: palsourashis04@example.com">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2709.svg" alt="Email" height="40" width="40">
-</a>
+  <a href="https://discord.gg/soura_05"><img src="https://img.icons8.com/color/96/discord-logo.png" width="55"/><img width="10"></a>
+  <a href="https://www.linkedin.com/in/iamsourashis"><img src="https://img.icons8.com/color/96/linkedin.png" width="55"/><img width="10"></a>
+  <a href="https://x.com/Soura_13"><img src="https://img.icons8.com/color/96/twitterx.png" width="55"/><img width="10"></a>
+  <a href="https://www.instagram.com/_nobi.07_"><img src="https://img.icons8.com/color/96/instagram-new.png" width="55"/><img width="10"></a>
+  <a href="mailto: palsourashis04@example.com"><img src="https://img.icons8.com/color/96/gmail-new.png" width="55"/><img width="10"></a>
 </div>
 
 ## 💻 Tech Stack:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" alt="pytorch logo"  /> 
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="15">
-  <img src="https://cdn.simpleicons.org/django/092E20" height="35" alt="Django logo" />
-  <img width="15">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="35" alt="GitHub logo white" />
-  <img width="15" />
-</div>
+<p align="center">
+  <a href="#"><img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" width="55"/><img width="10"></a>
+  <a href="#"><img src="https://img.icons8.com/color/96/python.png" width="55"/><img width="10"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50"/><img width="10"><a/>
+  <a href="#"><img src="https://img.icons8.com/color/96/numpy.png" width="55"/><img width="10"></a>
+  <a href="#"><img src="https://img.icons8.com/color/96/pandas.png" width="55"/><img width="10"></a>
+  <a href="#"><img src="https://img.icons8.com/color/96/tensorflow.png" width="55"/><img width="10"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><img width="10"></a>
+  <a href="#"><img src="https://img.icons8.com/ios-filled/100/ffffff/flask.png" width="55"/><img width="10"></a>
+  <a href="#"><img src="https://img.icons8.com/color/96/git.png" width="55"/><img width="10"></a>
+  <a href="#"><img src="https://img.icons8.com/glyph-neue/64/ffffff/github.png" width="55"/><img width="10"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/><img width="10"><a/>
+</p>
 
 ## 📊 GitHub Stats:
 <div align="center">
