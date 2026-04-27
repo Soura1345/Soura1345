@@ -5,7 +5,7 @@
 </div>
 <h1 align="center"&>SOURASHIS PAL</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=22eb07&center=true&vCenter=true&width=450&lines=I'm+a+Data+Scientist;and+wants+to+tell+you+guys+that;Coding+is+not+just+a+skill;It's+a+power,+that;Brings+imagination+to+life" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=22eb07&center=true&vCenter=true&width=450&lines=I'm+a+Data+Scientist;Coding+is+not+just+a+skill;It's+a+power,+that;Brings+imagination+to+life" alt="Typing SVG" />
 </div>
 
 🎓 I’m a passionate B.Tech student in Computer Science and Engineering<br>
@@ -37,14 +37,6 @@
 
 ## 💻 Tech Stack:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
@@ -64,8 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/github/ffffff" height="35" alt="GitHub logo white" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="35" alt="vercel logo"  />
   <img width="15" />
 </div>
 
