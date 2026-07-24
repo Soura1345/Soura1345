@@ -14,11 +14,11 @@
 
 ## 🌐 Socials:
 <div align="center">
-  <a href="https://discord.gg/soura_05"><img src="https://img.icons8.com/color/96/discord-logo.png" width="55"/><img width="10"></a>
   <a href="https://www.linkedin.com/in/iamsourashis"><img src="https://img.icons8.com/color/96/linkedin.png" width="55"/><img width="10"></a>
-  <a href="https://x.com/Soura_13"><img src="https://img.icons8.com/color/96/twitterx.png" width="55"/><img width="10"></a>
-  <a href="https://www.instagram.com/_nobi.07_"><img src="https://img.icons8.com/color/96/instagram-new.png" width="55"/><img width="10"></a>
   <a href="mailto: palsourashis04@example.com"><img src="https://img.icons8.com/color/96/gmail-new.png" width="55"/><img width="10"></a>
+  <a href="https://x.com/Soura_13"><img src="https://img.icons8.com/color/96/twitterx.png" width="55"/><img width="10"></a>
+  <a href="https://discord.gg/soura_05"><img src="https://img.icons8.com/color/96/discord-logo.png" width="55"/><img width="10"></a>
+  <a href="https://www.instagram.com/_nobi.07_"><img src="https://img.icons8.com/color/96/instagram-new.png" width="55"/><img width="10"></a>
 </div>
 
 ## 💻 Tech Stack:
