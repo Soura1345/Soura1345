@@ -25,7 +25,6 @@
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" width="55"/><img width="10"></a>
   <a href="#"><img src="https://img.icons8.com/color/96/python.png" width="55"/><img width="10"></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50"/><img width="10"><a/>
   <a href="#"><img src="https://img.icons8.com/color/96/numpy.png" width="55"/><img width="10"></a>
   <a href="#"><img src="https://img.icons8.com/color/96/pandas.png" width="55"/><img width="10"></a>
   <a href="#"><img src="https://img.icons8.com/color/96/tensorflow.png" width="55"/><img width="10"></a>
