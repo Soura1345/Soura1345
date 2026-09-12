@@ -34,27 +34,22 @@
   <a href="#"><img src="https://img.icons8.com/glyph-neue/64/ffffff/github.png" width="55"/><img width="10"></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/><img width="10"><a/>
 </p>
-
+<!--
 ## 📊 GitHub Stats:
 <div align="center">
-  
   ![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true) 
   ![](https://nirzak-streak-stats.vercel.app/?user=Soura1345&theme=vision-friendly-dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
-
 ## 🏆 GitHub Trophies
 <div align = "center">
-  
   ![](https://github-profile-trophy.vercel.app/?username=Soura1345&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
 </div>
-
 ## 🔝 Top Contributed Repo
 <div align = "center">
-  
   ![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=false)
 </div>
+-->
 
 ## 📈 Activity graph
 <div align="center">
