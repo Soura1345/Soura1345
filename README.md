@@ -44,12 +44,6 @@
 
 </div>
 
-## 🏆 Trophy:
-
-<## 🏆 Trophy:
-<div align="center">
-  <img src="./trophy.svg" alt="GitHub Profile Trophy" />
-</div>
 
 
 ## 🐍 Snake's Contribution:
