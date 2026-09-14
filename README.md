@@ -35,7 +35,6 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/><img width="10"><a/>
 </p>
 
-
 ## 📊 GitHub Stats:
 <div align="center">
 
@@ -45,29 +44,10 @@
 
 </div>
 
-<!--
-## 🏆 GitHub Trophies
-<div align = "center">
-
-<img src="./profile/trophy.svg" alt="trophy" />
-
-</div>
 
 
-## 🔝 Top Contributed Repo
-<div align = "center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Soura1345&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=false)
-
-</div>
--->
-
-## 📈 Activity graph
-<div align="center">
-  
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura1345&theme=github_dark)
-</div>
-
+## 🐍 Snake's Contribution:
 <div align="center">
   
   ![snake svg](https://soura1345.github.io/Soura1345/github-contribution-grid-snake-dark.svg)
