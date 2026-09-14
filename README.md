@@ -44,6 +44,12 @@
 
 </div>
 
+## 🏆 Trophy:
+<div align = "center">
+
+<img src="./trophy.svg" alt="trophy" />
+
+</div>
 
 
 
