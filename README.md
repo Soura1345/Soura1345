@@ -41,7 +41,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=radical&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=86400)
 ![](https://streak-stats.demolab.com/?user=Soura1345&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=radical&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=86400)
-
 </div>
 
 
