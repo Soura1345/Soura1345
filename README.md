@@ -35,15 +35,6 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/><img width="10"><a/>
 </p>
 
-## 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Soura1345&theme=radical&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=86400)
-![](https://streak-stats.demolab.com/?user=Soura1345&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soura1345&theme=radical&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=86400)
-</div>
-
-
 
 ## 🐍 Snake's Contribution:
 <div align="center">
