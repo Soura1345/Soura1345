@@ -25,7 +25,6 @@
 
 <div align="center">
   
-  ### I'm
 </div>
 <h1 align="center"&>SOURASHIS PAL</h1>
 <div align="center">
