@@ -4,6 +4,7 @@
 ![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3dqdjdmeGNuNmdlcXFwanVsOTVoaTZyanV4dDVidm5waWY0ZWN4NSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kSxi9DiWH4Q8q1Kbql/giphy.gif)
   
 </div>
+<h1 align="center"&>I'M</h1>
 <h1 align="center"&>SOURASHIS PAL</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=22eb07&center=true&vCenter=true&width=450&lines=I'm+a+Data+Scientist;Coding+is+not+just+a+skill;It's+a+power,+that;Brings+imagination+to+life" alt="Typing SVG" />
