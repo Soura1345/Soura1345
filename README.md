@@ -1,8 +1,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=Soura1345)
 
-![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3dqdjdmeGNuNmdlcXFwanVsOTVoaTZyanV4dDVidm5waWY0ZWN4NSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kSxi9DiWH4Q8q1Kbql/giphy.gif)
-![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWJjbXY1bWp2dTlpYnZ0b3MydmNtMmx5aHV0NzRicnIzbW40d3VnaiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/1CoTS8bsIdPaRNS7fs/giphy.gif)
-
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmp0cXN2dTdrcjQ3eTVteWQ3emt6Mms1ZmlzNXB6cGx6Yzk3ODdubiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h2MouomJFCpMfWVfUj/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3Y2dGcyOTRxbHhubHBpcGM2bWc4NHliZ2FsNnQ3NXJnZmsxczhzbSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kBTfbGOAmYU0euVUdl/giphy.gif)
 <table align="center">
   <tr>
     <td align="center">
