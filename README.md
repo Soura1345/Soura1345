@@ -1,8 +1,10 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=Soura1345)
-<div align="center">
 
 ![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3dqdjdmeGNuNmdlcXFwanVsOTVoaTZyanV4dDVidm5waWY0ZWN4NSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kSxi9DiWH4Q8q1Kbql/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWJjbXY1bWp2dTlpYnZ0b3MydmNtMmx5aHV0NzRicnIzbW40d3VnaiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/1CoTS8bsIdPaRNS7fs/giphy.gif)
 
+<div align="center">
+  
   ### I'm
 </div>
 <h1 align="center"&>SOURASHIS PAL</h1>
