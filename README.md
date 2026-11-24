@@ -13,8 +13,8 @@
       <b> 五条 悟 </b>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmp0cXN2dTdrcjQ3eTVteWQ3emt6Mms1ZmlzNXB6cGx6Yzk3ODdubiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h2MouomJFCpMfWVfUj/giphy.gif" width="200" alt="Xohu"><br>
-      <b>Xohu</b>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmp0cXN2dTdrcjQ3eTVteWQ3emt6Mms1ZmlzNXB6cGx6Yzk3ODdubiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h2MouomJFCpMfWVfUj/giphy.gif" width="200" alt="家入 硝子"><br>
+      <b>家入 硝子</b>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV4aXpkaHlhZmpycWk2MmVpZXltcWNoNWc1aHhhczV5Mmx5OGkxYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AfmM3XZ7ROBFggz4KY/giphy.gif" width="200" alt=" 虎杖 悠仁 "><br>
