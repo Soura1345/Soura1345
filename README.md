@@ -26,7 +26,6 @@
 <div align="center">
   
 </div>
-<h1 align="center"&>SOURASHIS PAL</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=22eb07&center=true&vCenter=true&width=450&lines=I'm+a+Data+Scientist;Coding+is+not+just+a+skill;It's+a+power,+that;Brings+imagination+to+life" alt="Typing SVG" />
 </div>
